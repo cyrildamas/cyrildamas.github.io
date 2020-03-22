@@ -1,2 +1,1 @@
-# cyrildamas.github.io
-MyNotes
+# MyNotes

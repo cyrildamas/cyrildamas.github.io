@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/cyrildamas
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cyrildamas.fr
+  * I am cyrildamas (https://keybase.io/cyrildamas) on keybase.
+  * I have a public key ASCQS8mQR6vFUlBw8Zpml-hqOXhF2A6omcy4D0ibIYxBKgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120f00a3e0bace60abec259aad020ec82968b9c238938161358e65a496e3056c8a60a",
+            "host": "keybase.io",
+            "kid": "0120904bc99047abc5525070f19a6697e86a397845d80ea899ccb80f489b218c412a0a",
+            "uid": "ef623d06176be6a548d52a995da4fc19",
+            "username": "cyrildamas"
+        },
+        "service": {
+            "hostname": "cyrildamas.fr",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.23"
+    },
+    "ctime": 1498300953,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1498300932,
+        "hash": "4f655dd4ff94b871fad3f36e9b03666ef8fbeab8668b6745e6f1836d0caf6a8db7187763e30e04fea60045d085c1c82e668bc76961fc7216e5fde55cc7b0e9bf",
+        "seqno": 1190776
+    },
+    "prev": "3de32b24081385aa6f382754b8e5d7989887c6c6eda393fb40ea27a81cc29919",
+    "seqno": 34,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgkEvJkEerxVJQcPGaZpfoajl4RdgOqJnMuA9ImyGMQSoKp3BheWxvYWTFAvl7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZjAwYTNlMGJhY2U2MGFiZWMyNTlhYWQwMjBlYzgyOTY4YjljMjM4OTM4MTYxMzU4ZTY1YTQ5NmUzMDU2YzhhNjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOTA0YmM5OTA0N2FiYzU1MjUwNzBmMTlhNjY5N2U4NmEzOTc4NDVkODBlYTg5OWNjYjgwZjQ4OWIyMThjNDEyYTBhIiwidWlkIjoiZWY2MjNkMDYxNzZiZTZhNTQ4ZDUyYTk5NWRhNGZjMTkiLCJ1c2VybmFtZSI6ImN5cmlsZGFtYXMifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImN5cmlsZGFtYXMuZnIiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMyJ9LCJjdGltZSI6MTQ5ODMwMDk1MywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDk4MzAwOTMyLCJoYXNoIjoiNGY2NTVkZDRmZjk0Yjg3MWZhZDNmMzZlOWIwMzY2NmVmOGZiZWFiODY2OGI2NzQ1ZTZmMTgzNmQwY2FmNmE4ZGI3MTg3NzYzZTMwZTA0ZmVhNjAwNDVkMDg1YzFjODJlNjY4YmM3Njk2MWZjNzIxNmU1ZmRlNTVjYzdiMGU5YmYiLCJzZXFubyI6MTE5MDc3Nn0sInByZXYiOiIzZGUzMmIyNDA4MTM4NWFhNmYzODI3NTRiOGU1ZDc5ODk4ODdjNmM2ZWRhMzkzZmI0MGVhMjdhODFjYzI5OTE5Iiwic2Vxbm8iOjM0LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQAYXE4Z4T0Rp95q5OdioIK6Tk0u1jLUQzmcp9d5wMAApCUrrz8NMlDCJvmTZ1OVVs6B2me7xZe42OXKMFREJFgCoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCB1othkqkL7HZvEKF9HylteoBRnN9X6crMEdw+fKJh42KN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cyrildamas
+
+==================================================================
